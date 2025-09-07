@@ -28,6 +28,6 @@
     "qcobjects-cli": "latest"
   },
   "dependencies": {
-    "qcobjects-sdk": "latest"
+    "qcobjects-sdk": "2.4.66"
   }
 }
