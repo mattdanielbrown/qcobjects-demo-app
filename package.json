@@ -23,7 +23,7 @@
   "author": "Jean Machuca (correojean@gmail.com)",
   "license": "LGPL-3.0-or-later",
   "devDependencies": {
-    "jasmine": "^3.5.0",
+    "jasmine": "^5.9.0",
     "qcobjects": "latest",
     "qcobjects-cli": "latest"
   },
